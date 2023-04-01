@@ -1,0 +1,6 @@
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:crystalcheong/homey.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:swe-homey/docs.git
