@@ -4,3 +4,6 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:swe-homey/docs.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:swe-homey/flask-api.git
