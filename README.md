@@ -2,6 +2,7 @@
 
 > The one-stop-shop property market web application for Singapore<br/>
 > - [Demo](https://youtu.be/apbWi2NVMBU)
+> - [Website](https://homey-sg.vercel.app/)
 > - [Documentation](https://github.com/swe-homey/docs)
 
 <br/>
